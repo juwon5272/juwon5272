@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 ### 📝 History
+- Smilegate Dev Camp 2025 2025.01 ~ 2025.02
 - Naver Boostcamp 9기 Membership 2024.08 ~ 2024.12
 - Naver Boostcamp 9기 Basic & Challenge 2024.06 ~ 2024.08
 - KwangWoon University Robotics(Information Control ) 2018.03 ~ 2024
